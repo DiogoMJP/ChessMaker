@@ -1,5 +1,5 @@
 # ChessMaker
 
-Run in App/ javac Chess.java
-After that com back to the root and execute java App/Chess
+To compile, run command 'make' on main directory.
+To execute, run command './exec.sh'.
 

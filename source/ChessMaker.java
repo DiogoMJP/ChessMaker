@@ -1,6 +1,6 @@
-package App;
+package source;
 
-public class Chess {
+public class ChessMaker {
     public static void main(String[] args) {
         System.out.println("THIS WILL BE THE CHESS GAME!");
     }
